@@ -1,10 +1,5 @@
 # Local AI Editorial Pipeline
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
-![Whisper](https://img.shields.io/badge/Whisper-Speech--to--Text-orange.svg)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
 An **offline, privacy-first AI pipeline** for transforming audio recordings into structured editorial content using local speech recognition and Large Language Models.
 
 The pipeline automatically performs:
