@@ -80,9 +80,10 @@ The pipeline produces four intermediate/final artifacts:
 ```text
 output/
 ├── 1_transcript.txt
-├── 2_summary.txt
+├── 2_summary.json
 ├── 3_article.md
 └── 4_fact_check.txt
+└── 4_fact_check.json
 ```
 
 This makes each stage independently inspectable rather than treating the generated article as a black box.
